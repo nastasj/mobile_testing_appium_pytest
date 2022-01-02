@@ -12,7 +12,6 @@ class CatalogPageLocators:
     TO_CATALOG_BUTTON = (By.ID, 'com.wildberries.ru:id/btnCatalogue')
     SEARCH_FIELD = (By.ID, 'com.wildberries.ru:id/searchPlaceholder')
     CATALOG_ELEMENT = (By.ID, 'com.wildberries.ru:id/name')
-    SHOW_PRODUCTS_BUTTON = (By.ID, 'com.wildberries.ru:id/showSelectedItems')
     CHOOSE_PRODUCT_BUTTON = (By.ID, 'com.wildberries.ru:id/nameTitle')
 
 
